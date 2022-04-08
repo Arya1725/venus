@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <link rel="shortcut icon" href="assets/image/LogoV.png" type="image/x-icon">
-<title>Dashboard</title>
+<title>Resepsionis</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Simple landind page" />
 <meta name="keywords" content="" />
@@ -19,7 +19,7 @@
     <div class="w3-sidebar w3-bar-block w3-border-right" style="background: #00FFFF; display:none;" id="mySidebar">
         <img class="w-full md:w-3/5 z-50 mx-auto" src="assets/image/LogoV.PNg" />
         <button onclick="w3_close()" class="w3-bar-item w3-large">Kembali &times;</button>
-        <a href="#" class="w3-bar-item w3-button">Dashboard</a><br>
+        <a href="#" class="w3-bar-item w3-button"></a><br>
         <a href="/KamarAdmin" class="w3-bar-item w3-button">Kamar</a><br>
         <a href="/KelasKamar" class="w3-bar-item w3-button">Kelas Kamar</a><br>
         <a href="/FasilitasKamar" class="w3-bar-item w3-button">Fasilitas Kamar</a><br>
@@ -31,7 +31,7 @@
     <div class="w3-teal">
         <button class="w3-button w3-teal w3-xlarge" onclick="w3_open()">☰</button>
         <div class="d-inline ">
-            <h3 class="d-inline "><b>Dashboard</b></h3>
+            <h3 class="d-inline "><b>Resepsionis</b></h3>
         </div>
     </div>
 
