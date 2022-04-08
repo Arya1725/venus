@@ -52,3 +52,7 @@ route::get('/FasilitasKamar', function () {
 route::get('/resi', function () {
     return view('resi');
 });
+
+route::get('/Logout', function () {
+    return view('Logout');
+});
