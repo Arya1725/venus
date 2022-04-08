@@ -24,7 +24,7 @@
         <a href="/KelasKamar" class="w3-bar-item w3-button">Kelas Kamar</a><br>
         <a href="/FasilitasKamar" class="w3-bar-item w3-button">Fasilitas Kamar</a><br>
         <a href="/FasilitasHotel" class="w3-bar-item w3-button">Fasilitas Hotel</a><br>
-        <a href="#" class="w3-bar-item w3-button">Resepsionis</a><br>
+        <a href="#" class="w3-bar-item w3-button bg-success">Logout</a><br>
     </div>
 
     <!-- Page Content -->
