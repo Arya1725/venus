@@ -165,7 +165,7 @@
                                     <p class="card-text text-black">Kamar Executive menampilkan kombinasi gaya art deco
                                         yang kaya dengan akomodasi hotel modern berkualitas tinggi di dalamruang seluas
                                         55 meter persegi, memberikan kesempatan ekslusif utuk menikmati pemandangan kota
-                                        di salah satu kamar hotel terbaik di kota .</p>
+                                        di salah satu kamar hotel terbaik di kota ini.</p>
                                     <h5 class="card-title text-yellow-500">Rp. 680,000 / Malam</h5>
                                     <a href="/Kamar" class="btn btn-white text-info d-inline btn-active"
                                         style="border-radius: 20px; outline: none; box-shadow: 2px 2px 4px rgba(11, 13, 14, 0.6), -2px -2px 4px rgb(10, 12, 10); border: none letter-spacing: 2px; background: none btn-active; ">Selengkapnya</a>
