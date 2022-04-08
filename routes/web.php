@@ -56,3 +56,7 @@ route::get('/resi', function () {
 route::get('/Logout', function () {
     return view('Logout');
 });
+
+route::get('/Resepsionis', function () {
+    return view('Resepsionis');
+});
