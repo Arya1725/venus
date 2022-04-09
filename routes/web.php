@@ -60,3 +60,19 @@ route::get('/Logout', function () {
 route::get('/Resepsionis', function () {
     return view('Resepsionis');
 });
+
+route::get('/History', function () {
+    return view('History');
+});
+
+route::get('/Ongoing', function () {
+    return view('Ongoing');
+});
+
+route::get('/Pending', function () {
+    return view('Pending');
+});
+
+route::get('/Tabel_resepsionis', function () {
+    return view('');
+});
