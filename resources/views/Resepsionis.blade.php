@@ -19,11 +19,8 @@
     <div class="w3-sidebar w3-bar-block w3-border-right" style="background: #00FFFF; display:none;" id="mySidebar">
         <img class="w-full md:w-3/5 z-50 mx-auto" src="assets/image/LogoV.PNg" />
         <button onclick="w3_close()" class="w3-bar-item w3-large">Kembali &times;</button>
-        <a href="#" class="w3-bar-item w3-button"></a><br>
-        <a href="/KamarAdmin" class="w3-bar-item w3-button">Kamar</a><br>
-        <a href="/KelasKamar" class="w3-bar-item w3-button">Kelas Kamar</a><br>
-        <a href="/FasilitasKamar" class="w3-bar-item w3-button">Fasilitas Kamar</a><br>
-        <a href="/FasilitasHotel" class="w3-bar-item w3-button">Fasilitas Hotel</a><br>
+        <a href="/Resepsionis" class="w3-bar-item w3-button">Dashboard</a><br>
+        <a href="/Pending" class="w3-bar-item w3-button ">Data Reservasi</a><br>
         <a href="#" class="w3-bar-item w3-button bg-success mt-5">Logout</a><br>
     </div>
 
@@ -31,9 +28,30 @@
     <div class="w3-teal">
         <button class="w3-button w3-teal w3-xlarge" onclick="w3_open()">☰</button>
         <div class="d-inline ">
-            <h3 class="d-inline "><b>Resepsionis</b></h3>
+            <h3 class="d-inline "><b>Dashboard</b></h3>
         </div>
     </div>
+    <ul class="nav nav-pills container mt-5" id="pills-tab" role="tablist">
+        <div class="card card-brown nav-item rounded-10 mt-3 me-3"
+            style="width: 16rem; background: #024949">
+            <div class="card-body text-white">
+                <h1 class="card-title">74</h1>
+                <p class="card-text">Jumlah Kamar</p>
+            </div>
+        </div>
+        <div class="card card-brown nav-item rounded-10 mt-3 me-3" style="width: 16rem;background: #024949">
+            <div class="card-body text-white">
+                <h1 class="card-title">74</h1>
+                <p class="card-text">Kamar Tersedia</p>
+            </div>
+        </div>
+        <div class="card card-brown nav-item rounded-10 mt-3 me-3" style="width: 16rem;background: #024949">
+            <div class="card-body text-white">
+                <h1 class="card-title">74</h1>
+                <p class="card-text">Jumlah Tamu yang Sedang Berkunjung</p>
+            </div>
+        </div>
+    </ul>
 
 
 
